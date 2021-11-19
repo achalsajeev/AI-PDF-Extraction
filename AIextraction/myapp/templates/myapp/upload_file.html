@@ -1,0 +1,11 @@
+
+
+<form method = 'POST' class = "col 12" enctype = "multipart/form-data">
+
+    {% csrf_token %}
+    {{ new_form.as_p}}
+
+    <input type = "file" name = 'document'>
+    <p><button type = "submit" class = "waves-effect waves-light btn" style = "background-color: teal">Upload</button></p>
+</form>
+

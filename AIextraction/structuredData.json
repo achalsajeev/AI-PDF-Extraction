@@ -1,0 +1,4341 @@
+{
+    "version": {
+        "json_export": "171",
+        "page_segmentation": "5",
+        "schema": "1.0.0",
+        "structure": "1.949.0",
+        "table_structure": "5"
+    },
+    "extended_metadata": {
+        "ID_instance": "31 19 2C FC B7 B2 B2 11 0A 00 67 45 8B 6B C6 23 ",
+        "ID_permanent": "39 46 20 35 38 20 32 39 20 46 43 20 42 37 20 42 32 20 42 32 20 31 31 20 30 41 20 30 30 20 36 37 20 34 35 20 38 42 20 36 42 20 43 36 20 32 33 20 ",
+        "pdf_version": "1.6",
+        "pdfa_compliance_level": "",
+        "is_encrypted": false,
+        "has_acroform": false,
+        "is_digitally_signed": false,
+        "pdfua_compliance_level": "",
+        "page_count": 3,
+        "has_embedded_files": false,
+        "is_certified": false,
+        "is_XFA": false,
+        "language": "EN-US"
+    },
+    "elements": [
+        {
+            "Bounds": [
+                44.8800048828125,
+                757.0929565429688,
+                244.90650939941406,
+                767.5725555419922
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect/P",
+            "Text": "Adobe Vendor Security Review Program White Paper ",
+            "TextSize": 8.520004272460938,
+            "attributes": {
+                "SpaceAfter": 18
+            }
+        },
+        {
+            "Bounds": [
+                549.1499938964844,
+                740.3639678955078,
+                585.6000061035156,
+                790.0500030517578
+            ],
+            "ClipBounds": [
+                549.1499938964844,
+                740.3639678955078,
+                585.6000061035156,
+                790.0500030517578
+            ],
+            "Page": 0,
+            "Path": "//Document/Sect/Figure",
+            "attributes": {
+                "BBox": [
+                    549.2179999999935,
+                    740.4029999999912,
+                    585.4559999999765,
+                    789.8409999999858
+                ],
+                "Placement": "Block"
+            }
+        },
+        {
+            "Bounds": [
+                184.44000244140625,
+                636.1869659423828,
+                510.10435485839844,
+                659.5815582275391
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect/Title",
+            "Text": "Adobe\u00ae Vendor Security Review Program ",
+            "TextSize": 19.020004272460938,
+            "attributes": {
+                "LineHeight": 22.875,
+                "SpaceAfter": 14.25
+            }
+        },
+        {
+            "Bounds": [
+                184.44000244140625,
+                608.6750335693359,
+                239.46034240722656,
+                624.0254364013672
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect[2]/H1",
+            "Text": "Overview ",
+            "TextSize": 12.479995727539062,
+            "attributes": {
+                "LineHeight": 15
+            }
+        },
+        {
+            "Bounds": [
+                45.41999816894531,
+                491.01287841796875,
+                107.90347290039062,
+                500.84423828125
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "ZWLAXU+AdobeClean-Bold",
+                "subset": true,
+                "weight": 700
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect[2]/Aside/P",
+            "Text": "Table of Contents ",
+            "TextSize": 7.9799957275390625
+        },
+        {
+            "Bounds": [
+                45.30000305175781,
+                479.9368133544922,
+                50.89378356933594,
+                489.53675842285156
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UZWRFE+AdobeClean-SemiCn",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 0,
+            "Path": "//Document/Sect[2]/Aside/L/LI/Lbl",
+            "Text": "1 ",
+            "TextSize": 7.9799957275390625
+        },
+        {
+            "Bounds": [
+                51.30000305175781,
+                479.9368133544922,
+                90.72402954101562,
+                489.53675842285156
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UZWRFE+AdobeClean-SemiCn",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 0,
+            "Path": "//Document/Sect[2]/Aside/L/LI/LBody",
+            "Text": "Overview ",
+            "TextSize": 7.9799957275390625
+        },
+        {
+            "Bounds": [
+                45.24000549316406,
+                468.8968200683594,
+                50.00067138671875,
+                478.49676513671875
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UZWRFE+AdobeClean-SemiCn",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 0,
+            "Path": "//Document/Sect[2]/Aside/L/LI[2]/Lbl",
+            "Text": "1 ",
+            "TextSize": 7.9799957275390625
+        },
+        {
+            "Bounds": [
+                50.100006103515625,
+                459.29681396484375,
+                132.554931640625,
+                478.49676513671875
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UZWRFE+AdobeClean-SemiCn",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 0,
+            "Path": "//Document/Sect[2]/Aside/L/LI[2]/LBody",
+            "Text": "Adobe Vendor Security Review (VSR) Process ",
+            "TextSize": 7.9799957275390625
+        },
+        {
+            "Bounds": [
+                45.30000305175781,
+                448.25682067871094,
+                49.88214111328125,
+                457.8567657470703
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UZWRFE+AdobeClean-SemiCn",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 0,
+            "Path": "//Document/Sect[2]/Aside/L/LI[3]/Lbl",
+            "Text": "1 ",
+            "TextSize": 7.9799957275390625
+        },
+        {
+            "Bounds": [
+                51.242706298828125,
+                448.25682067871094,
+                115.85755920410156,
+                457.8567657470703
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UZWRFE+AdobeClean-SemiCn",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 0,
+            "Path": "//Document/Sect[2]/Aside/L/LI[3]/LBody",
+            "Text": "Data Classification ",
+            "TextSize": 7.9799957275390625
+        },
+        {
+            "Bounds": [
+                45.30000305175781,
+                437.2168273925781,
+                51.32511901855469,
+                446.81675720214844
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UZWRFE+AdobeClean-SemiCn",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 0,
+            "Path": "//Document/Sect[2]/Aside/L/LI[4]/Lbl",
+            "Text": "4 ",
+            "TextSize": 7.9799957275390625
+        },
+        {
+            "Bounds": [
+                56.343292236328125,
+                437.2168273925781,
+                130.33421325683594,
+                446.81675720214844
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UZWRFE+AdobeClean-SemiCn",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 0,
+            "Path": "//Document/Sect[2]/Aside/L/LI[4]/LBody",
+            "Text": "VSR Security Controls ",
+            "TextSize": 7.9799957275390625
+        },
+        {
+            "Bounds": [
+                45.65785217285156,
+                426.11663818359375,
+                51.633056640625,
+                435.7165832519531
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UZWRFE+AdobeClean-SemiCn",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 0,
+            "Path": "//Document/Sect[2]/Aside/L/LI[5]/Lbl",
+            "Text": "5 ",
+            "TextSize": 7.9799957275390625
+        },
+        {
+            "Bounds": [
+                56.40155029296875,
+                406.9168243408203,
+                122.65103149414062,
+                435.7165832519531
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UZWRFE+AdobeClean-SemiCn",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 0,
+            "Path": "//Document/Sect[2]/Aside/L/LI[5]/LBody",
+            "Text": "The Adobe Vendor Information Security Standard ",
+            "TextSize": 7.9799957275390625
+        },
+        {
+            "Bounds": [
+                45.660003662109375,
+                395.87681579589844,
+                51.96263122558594,
+                405.4767608642578
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UZWRFE+AdobeClean-SemiCn",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 0,
+            "Path": "//Document/Sect[2]/Aside/L/LI[6]/Lbl",
+            "Text": "5 ",
+            "TextSize": 7.9799957275390625
+        },
+        {
+            "Bounds": [
+                56.339996337890625,
+                395.87681579589844,
+                126.56942749023438,
+                405.4767608642578
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UZWRFE+AdobeClean-SemiCn",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 0,
+            "Path": "//Document/Sect[2]/Aside/L/LI[6]/LBody",
+            "Text": "Vendor Engagement ",
+            "TextSize": 7.9799957275390625
+        },
+        {
+            "Bounds": [
+                45.47999572753906,
+                384.8368225097656,
+                52.18646240234375,
+                394.436767578125
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UZWRFE+AdobeClean-SemiCn",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 0,
+            "Path": "//Document/Sect[2]/Aside/L/LI[7]/Lbl",
+            "Text": "6 ",
+            "TextSize": 7.9799957275390625
+        },
+        {
+            "Bounds": [
+                56.339996337890625,
+                384.8368225097656,
+                122.5997314453125,
+                394.436767578125
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UZWRFE+AdobeClean-SemiCn",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 0,
+            "Path": "//Document/Sect[2]/Aside/L/LI[7]/LBody",
+            "Text": "Privacy Assessment ",
+            "TextSize": 7.9799957275390625
+        },
+        {
+            "Bounds": [
+                45.476593017578125,
+                373.80052185058594,
+                51.57337951660156,
+                383.4004669189453
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UZWRFE+AdobeClean-SemiCn",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 0,
+            "Path": "//Document/Sect[2]/Aside/L/LI[8]/Lbl",
+            "Text": "6 ",
+            "TextSize": 7.9799957275390625
+        },
+        {
+            "Bounds": [
+                56.399993896484375,
+                373.79681396484375,
+                115.90223693847656,
+                383.3967590332031
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UZWRFE+AdobeClean-SemiCn",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 0,
+            "Path": "//Document/Sect[2]/Aside/L/LI[8]/LBody",
+            "Text": "Legal Obligations ",
+            "TextSize": 7.9799957275390625
+        },
+        {
+            "Bounds": [
+                45.12080383300781,
+                362.76051330566406,
+                50.58708190917969,
+                372.36045837402344
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UZWRFE+AdobeClean-SemiCn",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 0,
+            "Path": "//Document/Sect[2]/Aside/L/LI[9]/Lbl",
+            "Text": "7 ",
+            "TextSize": 7.9799957275390625
+        },
+        {
+            "Bounds": [
+                56.399993896484375,
+                362.75682067871094,
+                95.01419067382812,
+                372.3567657470703
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UZWRFE+AdobeClean-SemiCn",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 0,
+            "Path": "//Document/Sect[2]/Aside/L/LI[9]/LBody",
+            "Text": "Conclusion ",
+            "TextSize": 7.9799957275390625
+        },
+        {
+            "Bounds": [
+                184.39283752441406,
+                543.4259948730469,
+                572.1136016845703,
+                603.5820007324219
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect[2]/P",
+            "Text": "Managed by the Adobe Information Security team, Adobe\u2019s vendor security review (VSR) program includes a set of requirements to which third-party vendors that collect, store, process, transmit, or dispose of Adobe Internal, Confidential, or Restricted data outside of Adobe-controlled physical offices or data center locations must adhere. Typical scenarios include vendors processing and storing Adobe data at their site, cloud services (e.g., SaaS, PaaS, IaaS, and XaaS), and data centers. ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                184.4022674560547,
+                488.65199279785156,
+                582.5422210693359,
+                536.5050048828125
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect[2]/P[2]",
+            "Text": "The Adobe VSR program evaluates each vendor\u2019s compliance to Adobe\u2019s Vendor Information Security Standard, providing a risk-based review of the vendor\u2019s security practices and enabling Adobe managers to make fact-based decisions concerning whether or not to enter into a relationship with that vendor. ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                184.39283752441406,
+                397.03199768066406,
+                578.6869964599609,
+                481.6679992675781
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect[2]/P[3]",
+            "Text": "The management of vendor relationships and their interactions with Adobe information and technologyresources is an essential element of information security. The VSR program is a logical extension of Adobe\u2019s belief that every action taken on or interaction with data should be conducted with a lens of security to help ensure the security, privacy, and availability of our customers\u2019 and employees\u2019 data, no matter where it is stored or processed, which is one of the key controls within the Adobe Common Controls Framework (CCF). With the VSR program, Adobe helps ensure that its culture of security extends to any vendor with whom the company does business. ",
+            "TextSize": 9.0,
+            "attributes": {
+                "SpaceAfter": 13.375
+            }
+        },
+        {
+            "Bounds": [
+                184.44000244140625,
+                367.89503479003906,
+                484.02496337890625,
+                383.2454376220703
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect[3]/H1",
+            "Text": "Adobe Vendor Security Review (VSR) Program Process ",
+            "TextSize": 12.479995727539062,
+            "attributes": {
+                "LineHeight": 15
+            }
+        },
+        {
+            "Bounds": [
+                184.43057250976562,
+                339.4290008544922,
+                574.5328369140625,
+                362.802001953125
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect[3]/P",
+            "Text": "The VSR program evaluates a third-party vendor\u2019s compliance with the Adobe Vendor Information Security Standard (described above). ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                184.4116973876953,
+                284.58299255371094,
+                568.0270538330078,
+                332.4989929199219
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect[3]/P[2]",
+            "Text": "Business owners within Adobe that wish to enter into a relationship with a third-party vendor initiatethe process with a VSR request, which includes a description of the service provided by the vendor, whether the vendor will process Adobe data off-site, and the classification of the data the vendor intends to process. ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                184.43057250976562,
+                242.10299682617188,
+                550.4246520996094,
+                277.71600341796875
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect[3]/P[3]",
+            "Text": "Based on the information provided by the business owner, Adobe sends the main point of contactat the vendor a detailed questionnaire, including questions from each security control area (see VSR Security Controls section). ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                184.39283752441406,
+                138.18299865722656,
+                582.8440856933594,
+                235.1219940185547
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect[3]/P[4]",
+            "Text": "After the vendor completes and returns the questionnaire, Adobe information security analysts review the information and perform a gap assessment. A vendor is assigned a risk level score of \u201ccritical,\u201d \u201chigh,\u201d \u201cmedium,\u201d or \u201clow\u201d based upon a risk matrix used by our risk analysts. If Adobe finds any gaps in, or deviations from, Adobe security standards, a risk analyst holds discussions with the business owner to understand the details about the gap and to provide potential remediation suggestions. The analyst documents the recommended remediation and the actions to be performed by the vendor and/or the business owner. If necessary, risk analysts will meet directly with vendors to resolve more complex issues. ",
+            "TextSize": 9.0,
+            "attributes": {
+                "SpaceAfter": 13.25
+            }
+        },
+        {
+            "Bounds": [
+                184.44000244140625,
+                109.05503845214844,
+                286.38099670410156,
+                124.40544128417969
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect[4]/H1",
+            "Text": "Data Classification ",
+            "TextSize": 12.479995727539062,
+            "attributes": {
+                "LineHeight": 15
+            }
+        },
+        {
+            "Bounds": [
+                184.43057250976562,
+                31.626007080078125,
+                579.2398071289062,
+                104.02200317382812
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 0,
+            "Path": "//Document/Sect[4]/P",
+            "Text": "Adobe developed the Adobe Data Classification and Handling Standard to aid in ensuring the security and privacy of all data that Adobe collects, processes, stores, uses, or otherwise handles regardless of whether the data is owned by Adobe or a third party, where the data is located (e.g., Adobe data center,colocation), or the type of hardware or media on which the data resides, whether paper or electronic (e.g., server, desktop, laptop, mobile device, USB flash drive). The standard establishes that all data ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                184.47169494628906,
+                719.8289947509766,
+                535.8946685791016,
+                767.6820068359375
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 1,
+            "Path": "//Document/Sect[4]/P[2]",
+            "Text": "collected, processed, transmitted, stored, or destroyed by or on behalf of Adobe must be classified and then protected in accordance with its designated classification. The specific classifications in the standard define with whom employees can share Adobe data and determine where and how toshare, protect, and secure this data. ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                184.4969940185547,
+                701.8320007324219,
+                515.9400177001953,
+                712.9019927978516
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 1,
+            "Path": "//Document/Sect[4]/P[3]",
+            "Text": "The Adobe Data Classification and Handling Standard includes four (4) classifications: ",
+            "TextSize": 9.0,
+            "attributes": {
+                "SpaceAfter": 4.5
+            }
+        },
+        {
+            "Bounds": [
+                184.41600036621094,
+                686.6490020751953,
+                189.4559783935547,
+                697.718994140625
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 1,
+            "Path": "//Document/Sect[4]/L/LI/Lbl",
+            "Text": "\u2022 ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                191.52000427246094,
+                686.6519927978516,
+                261.9802703857422,
+                697.7220001220703
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 1,
+            "Path": "//Document/Sect[4]/L/LI/LBody",
+            "Text": "Adobe Restricted ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                184.44000244140625,
+                668.5890045166016,
+                189.47998046875,
+                679.6589965820312
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 1,
+            "Path": "//Document/Sect[4]/L/LI[2]/Lbl",
+            "Text": "\u2022 ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                191.52000427246094,
+                668.5919952392578,
+                270.3101806640625,
+                679.6620025634766
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 1,
+            "Path": "//Document/Sect[4]/L/LI[2]/LBody",
+            "Text": "Adobe Confidential ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                184.44000244140625,
+                650.5290069580078,
+                189.47998046875,
+                661.5989990234375
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 1,
+            "Path": "//Document/Sect[4]/L/LI[3]/Lbl",
+            "Text": "\u2022 ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                191.52000427246094,
+                650.5319976806641,
+                252.88612365722656,
+                661.6020050048828
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 1,
+            "Path": "//Document/Sect[4]/L/LI[3]/LBody",
+            "Text": "Adobe Internal ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                184.43699645996094,
+                632.468994140625,
+                189.4769744873047,
+                643.5390014648438
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 1,
+            "Path": "//Document/Sect[4]/L/LI[4]/Lbl",
+            "Text": "\u2022 ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                191.52000427246094,
+                632.4720001220703,
+                218.01950073242188,
+                643.5420074462891
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 1,
+            "Path": "//Document/Sect[4]/L/LI[4]/LBody",
+            "Text": "Public ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                184.46359252929688,
+                574.8719940185547,
+                543.821533203125,
+                622.7250061035156
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 1,
+            "Path": "//Document/Sect[4]/P[4]",
+            "Text": "A VSR is required for all third-party vendors that store or process data classified as Adobe Restricted, Confidential, or Internal off-premise (not at Adobe). Depending on the classification of the data handled by the vendor, a new VSR is required either annually or biannually (see Recertification section). ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                184.46226501464844,
+                532.2689971923828,
+                546.6343383789062,
+                567.8820037841797
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 1,
+            "Path": "//Document/Sect[4]/P[5]",
+            "Text": "Each data classification includes specific protection and handling requirements, and if data falls into multiple classifications, it must be protected in accordance with the most restrictive classification. ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                184.49057006835938,
+                489.7259979248047,
+                553.3014373779297,
+                525.3390045166016
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 1,
+            "Path": "//Document/Sect[4]/P[6]",
+            "Text": "Any business owner requesting an exception to the Data Classification and Handling Standard mustsubmit a request in writing to the appropriate management personnel for review and approval. ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                184.5,
+                447.18299865722656,
+                560.8667907714844,
+                482.79600524902344
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 1,
+            "Path": "//Document/Sect[4]/P[7]",
+            "Text": "If Adobe finds that data that should be classified as Adobe Restricted or Adobe Confidential has been handled incorrectly, either due to incorrect classification or negligence in its handling, Adobe may take disciplinary action against the offender. ",
+            "TextSize": 9.0,
+            "attributes": {
+                "SpaceAfter": 10.375
+            }
+        },
+        {
+            "Bounds": [
+                184.5,
+                423.2008819580078,
+                299.0975799560547,
+                436.7282409667969
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "ZWLAXU+AdobeClean-Bold",
+                "subset": true,
+                "weight": 700
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 1,
+            "Path": "//Document/Sect[4]/Sect/H2",
+            "Text": "Adobe Restricted Data ",
+            "TextSize": 10.979995727539062,
+            "attributes": {
+                "SpaceAfter": 3
+            }
+        },
+        {
+            "Bounds": [
+                184.48716735839844,
+                359.22300720214844,
+                565.1461944580078,
+                419.54100036621094
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": true,
+                "monospaced": false,
+                "name": "OZLNZQ+AdobeClean-It",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 1,
+            "Path": "//Document/Sect[4]/Sect/P",
+            "Text": "Adobe Restricted data is the most restrictive classification and requires the most care; only very limited segments of the Adobe workforce need access to Adobe Restricted data to perform their jobs. Unauthorized disclosure of Adobe Restricted data could cause severe harm to Adobe, its employees, customers, stockholders, or business partners. Adobe Restricted data includes the following: ",
+            "TextSize": 9.0,
+            "attributes": {
+                "SpaceAfter": 4.25
+            }
+        },
+        {
+            "Bounds": [
+                184.4429931640625,
+                344.1750030517578,
+                189.48297119140625,
+                355.2449951171875
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 1,
+            "Path": "//Document/Sect[4]/Sect/L/LI/Lbl",
+            "Text": "\u2022 ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                191.52000427246094,
+                344.1719970703125,
+                361.817626953125,
+                355.24200439453125
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 1,
+            "Path": "//Document/Sect[4]/Sect/L/LI/LBody",
+            "Text": "Cardholder data, as defined by the PCI DSS ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                184.44000244140625,
+                326.1719970703125,
+                189.47998046875,
+                337.24200439453125
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 1,
+            "Path": "//Document/Sect[4]/Sect/L/LI[2]/Lbl",
+            "Text": "\u2022 ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                191.52000427246094,
+                326.1719970703125,
+                283.7532196044922,
+                337.24200439453125
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 1,
+            "Path": "//Document/Sect[4]/Sect/L/LI[2]/LBody",
+            "Text": "Bank account numbers ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                184.4429931640625,
+                308.05499267578125,
+                189.48297119140625,
+                319.125
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 1,
+            "Path": "//Document/Sect[4]/Sect/L/LI[3]/Lbl",
+            "Text": "\u2022 ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                191.52000427246094,
+                308.052001953125,
+                489.091796875,
+                319.1219940185547
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 1,
+            "Path": "//Document/Sect[4]/Sect/L/LI[3]/LBody",
+            "Text": "Social Security and taxpayer identification numbers relating to an individual ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                184.43699645996094,
+                289.93499755859375,
+                189.4769744873047,
+                301.0050048828125
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 1,
+            "Path": "//Document/Sect[4]/Sect/L/LI[4]/Lbl",
+            "Text": "\u2022 ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                191.52000427246094,
+                277.69200134277344,
+                520.0392761230469,
+                301.0019989013672
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 1,
+            "Path": "//Document/Sect[4]/Sect/L/LI[4]/LBody",
+            "Text": "Driver\u2019s license numbers or identification card number used to verify an individual\u2019s identity(state, military, student, voter, tribal, operator\u2019s number, etc.) ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                184.4429931640625,
+                259.7550048828125,
+                189.48297119140625,
+                270.8249969482422
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 1,
+            "Path": "//Document/Sect[4]/Sect/L/LI[5]/Lbl",
+            "Text": "\u2022 ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                191.52000427246094,
+                259.7519989013672,
+                275.7568664550781,
+                270.82200622558594
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 1,
+            "Path": "//Document/Sect[4]/Sect/L/LI[5]/LBody",
+            "Text": "Passport information ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                184.44000244140625,
+                241.57200622558594,
+                189.47998046875,
+                252.64199829101562
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 1,
+            "Path": "//Document/Sect[4]/Sect/L/LI[6]/Lbl",
+            "Text": "\u2022 ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                191.52000427246094,
+                229.33200073242188,
+                548.6703796386719,
+                252.64199829101562
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 1,
+            "Path": "//Document/Sect[4]/Sect/L/LI[6]/LBody",
+            "Text": "Credential stores used to authenticate Adobe users or employees, such as Active Directory (butnot including personal password managers, such as Splash ID) ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                184.44000244140625,
+                211.33200073242188,
+                189.47998046875,
+                222.40199279785156
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 1,
+            "Path": "//Document/Sect[4]/Sect/L/LI[7]/Lbl",
+            "Text": "\u2022 ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                191.52000427246094,
+                186.78900146484375,
+                538.1613006591797,
+                222.40199279785156
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 1,
+            "Path": "//Document/Sect[4]/Sect/L/LI[7]/LBody",
+            "Text": "Credentials, secrets, tokens, or keys permitting access to systems storing Restricted data or permitting decryption of Restricted data (e.g., identity management systems, deployment systems, or secret stores) ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                184.4429931640625,
+                168.79200744628906,
+                189.48297119140625,
+                179.86199951171875
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 1,
+            "Path": "//Document/Sect[4]/Sect/L/LI[8]/Lbl",
+            "Text": "\u2022 ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                191.52000427246094,
+                168.79200744628906,
+                392.10874938964844,
+                179.86199951171875
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 1,
+            "Path": "//Document/Sect[4]/Sect/L/LI[8]/LBody",
+            "Text": "Digital certificates used for signing Adobe software ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                184.44000244140625,
+                150.72900390625,
+                189.47998046875,
+                161.7989959716797
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 1,
+            "Path": "//Document/Sect[4]/Sect/L/LI[9]/Lbl",
+            "Text": "\u2022 ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                191.52000427246094,
+                150.73199462890625,
+                548.4439544677734,
+                161.802001953125
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 1,
+            "Path": "//Document/Sect[4]/Sect/L/LI[9]/LBody",
+            "Text": "Medical or health information, including electronically protected health information (ePHI) ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                184.43699645996094,
+                132.73199462890625,
+                189.4769744873047,
+                143.802001953125
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 1,
+            "Path": "//Document/Sect[4]/Sect/L/LI[10]/Lbl",
+            "Text": "\u2022 ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                191.52000427246094,
+                132.73199462890625,
+                357.1098175048828,
+                143.802001953125
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 1,
+            "Path": "//Document/Sect[4]/Sect/L/LI[10]/LBody",
+            "Text": "Federal classified or intelligence contracts ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                184.44000244140625,
+                114.61500549316406,
+                189.47998046875,
+                125.68499755859375
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 1,
+            "Path": "//Document/Sect[4]/Sect/L/LI[11]/Lbl",
+            "Text": "\u2022 ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                191.52000427246094,
+                102.30900573730469,
+                484.3115539550781,
+                125.6820068359375
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 1,
+            "Path": "//Document/Sect[4]/Sect/L/LI[11]/LBody",
+            "Text": "Security question response (including mother\u2019s maiden name) or Personal IdentificationNumber (PIN) ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                184.44000244140625,
+                84.375,
+                189.47998046875,
+                95.44500732421875
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 1,
+            "Path": "//Document/Sect[4]/Sect/L/LI[12]/Lbl",
+            "Text": "\u2022 ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                191.52000427246094,
+                84.37199401855469,
+                305.26202392578125,
+                95.44200134277344
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 1,
+            "Path": "//Document/Sect[4]/Sect/L/LI[12]/LBody",
+            "Text": "Private key digital signatures ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                184.43699645996094,
+                66.30900573730469,
+                189.4769744873047,
+                77.37899780273438
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 1,
+            "Path": "//Document/Sect[4]/Sect/L/LI[13]/Lbl",
+            "Text": "\u2022 ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                191.52000427246094,
+                66.31199645996094,
+                280.01763916015625,
+                77.38200378417969
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 1,
+            "Path": "//Document/Sect[4]/Sect/L/LI[13]/LBody",
+            "Text": "Biometric information ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                184.44000244140625,
+                756.6119995117188,
+                189.47998046875,
+                767.6820068359375
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/L/LI[14]/Lbl",
+            "Text": "\u2022 ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                191.52000427246094,
+                756.6119995117188,
+                272.39959716796875,
+                767.6820068359375
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/L/LI[14]/LBody",
+            "Text": "Genetic information ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                184.4429931640625,
+                738.5489959716797,
+                189.48297119140625,
+                749.6190032958984
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/L/LI[15]/Lbl",
+            "Text": "\u2022 ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                191.52000427246094,
+                738.552001953125,
+                242.3203582763672,
+                749.6219940185547
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/L/LI[15]/LBody",
+            "Text": "Racial origin ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                184.4429931640625,
+                720.4889984130859,
+                189.48297119140625,
+                731.5590057373047
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/L/LI[16]/Lbl",
+            "Text": "\u2022 ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                191.51699829101562,
+                720.4889984130859,
+                242.709228515625,
+                731.5590057373047
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/L/LI[16]/LBody",
+            "Text": "Ethnic origin ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                184.4340057373047,
+                702.4259948730469,
+                189.47398376464844,
+                713.4960021972656
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/L/LI[17]/Lbl",
+            "Text": "\u2022 ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                191.52000427246094,
+                702.4320068359375,
+                261.09349060058594,
+                713.5019989013672
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/L/LI[17]/LBody",
+            "Text": "Political opinions ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                184.4429931640625,
+                684.4320068359375,
+                189.48297119140625,
+                695.5019989013672
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/L/LI[18]/Lbl",
+            "Text": "\u2022 ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                191.52000427246094,
+                684.4320068359375,
+                257.16448974609375,
+                695.5019989013672
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/L/LI[18]/LBody",
+            "Text": "Religious beliefs ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                184.44000244140625,
+                666.3690032958984,
+                189.47998046875,
+                677.4389953613281
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/L/LI[19]/Lbl",
+            "Text": "\u2022 ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                191.52000427246094,
+                666.3719940185547,
+                274.0079345703125,
+                677.4420013427734
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/L/LI[19]/LBody",
+            "Text": "Philosophical beliefs ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                184.44000244140625,
+                648.2550048828125,
+                189.47998046875,
+                659.3249969482422
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/L/LI[20]/Lbl",
+            "Text": "\u2022 ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                191.52000427246094,
+                648.2519989013672,
+                293.3473663330078,
+                659.3220062255859
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/L/LI[20]/LBody",
+            "Text": "Trade union membership ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                184.43699645996094,
+                630.1889953613281,
+                189.4769744873047,
+                641.2590026855469
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/L/LI[21]/Lbl",
+            "Text": "\u2022 ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                191.52000427246094,
+                630.1920013427734,
+                269.74407958984375,
+                641.2619934082031
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/L/LI[21]/LBody",
+            "Text": "Sex life information ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                184.44000244140625,
+                612.1289978027344,
+                189.47998046875,
+                623.1990051269531
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/L/LI[22]/Lbl",
+            "Text": "\u2022 ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                191.52000427246094,
+                612.1320037841797,
+                265.25636291503906,
+                623.2019958496094
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/L/LI[22]/LBody",
+            "Text": "Sexual orientation ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                184.4429931640625,
+                594.0690002441406,
+                189.48297119140625,
+                605.1390075683594
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/L/LI[23]/Lbl",
+            "Text": "\u2022 ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                191.52000427246094,
+                594.0720062255859,
+                324.9990997314453,
+                605.1419982910156
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/L/LI[23]/LBody",
+            "Text": "Criminal offenses and convictions ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                184.43699645996094,
+                576.0090026855469,
+                189.4769744873047,
+                587.0789947509766
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/L/LI[24]/Lbl",
+            "Text": "\u2022 ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                191.52000427246094,
+                576.0119934082031,
+                253.0087432861328,
+                587.0820007324219
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/L/LI[24]/LBody",
+            "Text": "Birth certificate ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                184.43699645996094,
+                557.9490051269531,
+                189.4769744873047,
+                569.0189971923828
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/L/LI[25]/Lbl",
+            "Text": "\u2022 ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                191.52000427246094,
+                557.9519958496094,
+                270.3101501464844,
+                569.0220031738281
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/L/LI[25]/LBody",
+            "Text": "Marriage certificate ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                184.43699645996094,
+                539.8350067138672,
+                189.4769744873047,
+                550.9049987792969
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/L/LI[26]/Lbl",
+            "Text": "\u2022 ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                191.52000427246094,
+                527.5919952392578,
+                505.3457946777344,
+                550.9019927978516
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/L/LI[26]/LBody",
+            "Text": "Information or data collected through use or operation of an automated license platerecognition system ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                184.8000030517578,
+                313.13682556152344,
+                562.4625396728516,
+                506.0642395019531
+            ],
+            "ClipBounds": [
+                184.8000030517578,
+                313.13682556152344,
+                561.969970703125,
+                505.9309997558594
+            ],
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/Table",
+            "attributes": {
+                "BBox": [
+                    184.07299999999668,
+                    310.9399999999878,
+                    561.8169999999809,
+                    504.73199999998906
+                ],
+                "NumCol": 3,
+                "NumRow": 5,
+                "Placement": "Block",
+                "SpaceAfter": 18
+            }
+        },
+        {
+            "Bounds": [
+                184.86000061035156,
+                496.2328796386719,
+                231.91812133789062,
+                506.0642395019531
+            ],
+            "ClipBounds": [
+                184.86000061035156,
+                496.2328796386719,
+                231.91812133789062,
+                505.9309997558594
+            ],
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/Table/TR/TH",
+            "attributes": {
+                "BBox": [
+                    184.07299999999668,
+                    494.5329999999958,
+                    305.2679999999964,
+                    504.73199999998906
+                ],
+                "BlockAlign": "Before",
+                "BorderColor": [
+                    null,
+                    [
+                        0.1333309999999983,
+                        0.12156699999999887,
+                        0.12156699999999887
+                    ],
+                    null,
+                    null
+                ],
+                "BorderStyle": [
+                    "None",
+                    "Solid",
+                    "None",
+                    "None"
+                ],
+                "BorderThickness": [
+                    0,
+                    0.125,
+                    0,
+                    0
+                ],
+                "ColIndex": 0,
+                "Height": 10.25,
+                "InlineAlign": "Start",
+                "RowIndex": 0,
+                "Width": 121.25
+            }
+        },
+        {
+            "Bounds": [
+                184.86000061035156,
+                496.2328796386719,
+                231.91812133789062,
+                506.0642395019531
+            ],
+            "ClipBounds": [
+                184.86000061035156,
+                496.2328796386719,
+                231.91812133789062,
+                505.9309997558594
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "ZWLAXU+AdobeClean-Bold",
+                "subset": true,
+                "weight": 700
+            },
+            "HasClip": true,
+            "Lang": "en",
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/Table/TR/TH/P",
+            "Text": "Classification ",
+            "TextSize": 7.9799957275390625,
+            "attributes": {
+                "LineHeight": 9.625
+            }
+        },
+        {
+            "Bounds": [
+                319.32000732421875,
+                496.2328796386719,
+                354.4399108886719,
+                506.0642395019531
+            ],
+            "ClipBounds": [
+                319.32000732421875,
+                496.2328796386719,
+                354.4399108886719,
+                505.9309997558594
+            ],
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/Table/TR/TH[2]",
+            "attributes": {
+                "BBox": [
+                    305.2679999999964,
+                    494.5329999999958,
+                    433.4219999999914,
+                    504.73199999998906
+                ],
+                "BlockAlign": "Before",
+                "BorderColor": [
+                    null,
+                    [
+                        0.1333309999999983,
+                        0.12156699999999887,
+                        0.12156699999999887
+                    ],
+                    null,
+                    null
+                ],
+                "BorderStyle": [
+                    "None",
+                    "Solid",
+                    "None",
+                    "None"
+                ],
+                "BorderThickness": [
+                    0,
+                    0.125,
+                    0,
+                    0
+                ],
+                "ColIndex": 1,
+                "Height": 10.25,
+                "InlineAlign": "Start",
+                "RowIndex": 0,
+                "Width": 128.125
+            }
+        },
+        {
+            "Bounds": [
+                319.32000732421875,
+                496.2328796386719,
+                354.4399108886719,
+                506.0642395019531
+            ],
+            "ClipBounds": [
+                319.32000732421875,
+                496.2328796386719,
+                354.4399108886719,
+                505.9309997558594
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "ZWLAXU+AdobeClean-Bold",
+                "subset": true,
+                "weight": 700
+            },
+            "HasClip": true,
+            "Lang": "en",
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/Table/TR/TH[2]/P",
+            "Text": "Examples ",
+            "TextSize": 7.9799957275390625,
+            "attributes": {
+                "LineHeight": 9.625
+            }
+        },
+        {
+            "Bounds": [
+                442.97999572753906,
+                496.2328796386719,
+                562.4625396728516,
+                506.0642395019531
+            ],
+            "ClipBounds": [
+                442.97999572753906,
+                496.2328796386719,
+                561.969970703125,
+                505.9309997558594
+            ],
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/Table/TR/TH[3]",
+            "attributes": {
+                "BBox": [
+                    433.4219999999914,
+                    494.5329999999958,
+                    561.8169999999809,
+                    504.73199999998906
+                ],
+                "BlockAlign": "Before",
+                "BorderColor": [
+                    null,
+                    [
+                        0.1333309999999983,
+                        0.12156699999999887,
+                        0.12156699999999887
+                    ],
+                    null,
+                    null
+                ],
+                "BorderStyle": [
+                    "None",
+                    "Solid",
+                    "None",
+                    "None"
+                ],
+                "BorderThickness": [
+                    0,
+                    0.125,
+                    0,
+                    0
+                ],
+                "ColIndex": 2,
+                "Height": 10.25,
+                "InlineAlign": "End",
+                "RowIndex": 0,
+                "Width": 128.375
+            }
+        },
+        {
+            "Bounds": [
+                442.97999572753906,
+                496.2328796386719,
+                562.4625396728516,
+                506.0642395019531
+            ],
+            "ClipBounds": [
+                442.97999572753906,
+                496.2328796386719,
+                561.969970703125,
+                505.9309997558594
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "ZWLAXU+AdobeClean-Bold",
+                "subset": true,
+                "weight": 700
+            },
+            "HasClip": true,
+            "Lang": "en",
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/Table/TR/TH[3]/P",
+            "Text": "Impact of Unauthorized Disclosure ",
+            "TextSize": 7.9799957275390625,
+            "attributes": {
+                "LineHeight": 9.625
+            }
+        },
+        {
+            "Bounds": [
+                184.8000030517578,
+                473.1568145751953,
+                272.45941162109375,
+                492.98423767089844
+            ],
+            "ClipBounds": [
+                184.8000030517578,
+                473.1568145751953,
+                272.45941162109375,
+                492.98423767089844
+            ],
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/Table/TR[2]/TD",
+            "attributes": {
+                "BBox": [
+                    184.07299999999668,
+                    451.33499999999185,
+                    305.2679999999964,
+                    494.8929999999964
+                ],
+                "BlockAlign": "Before",
+                "BorderColor": [
+                    [
+                        0.1333309999999983,
+                        0.12156699999999887,
+                        0.12156699999999887
+                    ],
+                    [
+                        0.1333309999999983,
+                        0.12156699999999887,
+                        0.12156699999999887
+                    ],
+                    null,
+                    null
+                ],
+                "BorderStyle": [
+                    "Solid",
+                    "Solid",
+                    "None",
+                    "None"
+                ],
+                "BorderThickness": [
+                    0.125,
+                    0.125,
+                    0,
+                    0
+                ],
+                "ColIndex": 0,
+                "Height": 43.5,
+                "InlineAlign": "Start",
+                "RowIndex": 1,
+                "Width": 121.25
+            }
+        },
+        {
+            "Bounds": [
+                184.8000030517578,
+                473.1568145751953,
+                272.45941162109375,
+                492.98423767089844
+            ],
+            "ClipBounds": [
+                184.8000030517578,
+                473.1568145751953,
+                272.45941162109375,
+                492.98423767089844
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UZWRFE+AdobeClean-SemiCn",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": true,
+            "Lang": "en",
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/Table/TR[2]/TD/P",
+            "Text": "Restricted data has a High Business Impact ",
+            "TextSize": 7.9799957275390625,
+            "attributes": {
+                "LineHeight": 10.125
+            }
+        },
+        {
+            "Bounds": [
+                319.32000732421875,
+                452.6968231201172,
+                410.0629577636719,
+                492.7767639160156
+            ],
+            "ClipBounds": [
+                319.32000732421875,
+                452.6968231201172,
+                410.0629577636719,
+                492.7767639160156
+            ],
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/Table/TR[2]/TD[2]",
+            "attributes": {
+                "BBox": [
+                    305.2679999999964,
+                    451.33499999999185,
+                    433.4219999999914,
+                    494.8929999999964
+                ],
+                "BlockAlign": "Before",
+                "BorderColor": [
+                    [
+                        0.1333309999999983,
+                        0.12156699999999887,
+                        0.12156699999999887
+                    ],
+                    [
+                        0.1333309999999983,
+                        0.12156699999999887,
+                        0.12156699999999887
+                    ],
+                    null,
+                    null
+                ],
+                "BorderStyle": [
+                    "Solid",
+                    "Solid",
+                    "None",
+                    "None"
+                ],
+                "BorderThickness": [
+                    0.125,
+                    0.125,
+                    0,
+                    0
+                ],
+                "ColIndex": 1,
+                "Height": 43.5,
+                "InlineAlign": "Start",
+                "RowIndex": 1,
+                "Width": 128.125
+            }
+        },
+        {
+            "Bounds": [
+                319.32000732421875,
+                452.6968231201172,
+                410.0629577636719,
+                492.7767639160156
+            ],
+            "ClipBounds": [
+                319.32000732421875,
+                452.6968231201172,
+                410.0629577636719,
+                492.7767639160156
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UZWRFE+AdobeClean-SemiCn",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": true,
+            "Lang": "en",
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/Table/TR[2]/TD[2]/P",
+            "Text": "Regulatory protected data, material financial data, intellectual property, passwords and credential. ",
+            "TextSize": 7.9799957275390625,
+            "attributes": {
+                "LineHeight": 10.125
+            }
+        },
+        {
+            "Bounds": [
+                442.97999572753906,
+                463.1968231201172,
+                559.1455993652344,
+                492.7767639160156
+            ],
+            "ClipBounds": [
+                442.97999572753906,
+                463.1968231201172,
+                559.1455993652344,
+                492.7767639160156
+            ],
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/Table/TR[2]/TD[3]",
+            "attributes": {
+                "BBox": [
+                    433.4219999999914,
+                    451.33499999999185,
+                    561.8169999999809,
+                    494.8929999999964
+                ],
+                "BlockAlign": "Before",
+                "BorderColor": [
+                    [
+                        0.1333309999999983,
+                        0.12156699999999887,
+                        0.12156699999999887
+                    ],
+                    [
+                        0.1333309999999983,
+                        0.12156699999999887,
+                        0.12156699999999887
+                    ],
+                    null,
+                    null
+                ],
+                "BorderStyle": [
+                    "Solid",
+                    "Solid",
+                    "None",
+                    "None"
+                ],
+                "BorderThickness": [
+                    0.125,
+                    0.125,
+                    0,
+                    0
+                ],
+                "ColIndex": 2,
+                "Height": 43.5,
+                "InlineAlign": "Start",
+                "RowIndex": 1,
+                "Width": 128.375
+            }
+        },
+        {
+            "Bounds": [
+                442.97999572753906,
+                463.1968231201172,
+                559.1455993652344,
+                492.7767639160156
+            ],
+            "ClipBounds": [
+                442.97999572753906,
+                463.1968231201172,
+                559.1455993652344,
+                492.7767639160156
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UZWRFE+AdobeClean-SemiCn",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": true,
+            "Lang": "en",
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/Table/TR[2]/TD[3]/P",
+            "Text": "Likely to cause severe harm to Adobe, its employees, customers, stockholders, or business partners. ",
+            "TextSize": 7.9799957275390625,
+            "attributes": {
+                "LineHeight": 10
+            }
+        },
+        {
+            "Bounds": [
+                184.8000030517578,
+                429.47682189941406,
+                291.58741760253906,
+                449.15675354003906
+            ],
+            "ClipBounds": [
+                184.8000030517578,
+                429.47682189941406,
+                291.58741760253906,
+                449.15675354003906
+            ],
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/Table/TR[3]/TD",
+            "attributes": {
+                "BBox": [
+                    184.07299999999668,
+                    387.2569999999978,
+                    305.2679999999964,
+                    451.69499999999243
+                ],
+                "BlockAlign": "Before",
+                "BorderColor": [
+                    [
+                        0.1333309999999983,
+                        0.12156699999999887,
+                        0.12156699999999887
+                    ],
+                    [
+                        0.1333309999999983,
+                        0.12156699999999887,
+                        0.12156699999999887
+                    ],
+                    null,
+                    null
+                ],
+                "BorderStyle": [
+                    "Solid",
+                    "Solid",
+                    "None",
+                    "None"
+                ],
+                "BorderThickness": [
+                    0.125,
+                    0.125,
+                    0,
+                    0
+                ],
+                "ColIndex": 0,
+                "Height": 64.375,
+                "InlineAlign": "Start",
+                "RowIndex": 2,
+                "Width": 121.25
+            }
+        },
+        {
+            "Bounds": [
+                184.8000030517578,
+                429.47682189941406,
+                291.58741760253906,
+                449.15675354003906
+            ],
+            "ClipBounds": [
+                184.8000030517578,
+                429.47682189941406,
+                291.58741760253906,
+                449.15675354003906
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UZWRFE+AdobeClean-SemiCn",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": true,
+            "Lang": "en",
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/Table/TR[3]/TD/P",
+            "Text": "Confidential data has a Medium Business Impact ",
+            "TextSize": 7.9799957275390625,
+            "attributes": {
+                "LineHeight": 10.125
+            }
+        },
+        {
+            "Bounds": [
+                319.32000732421875,
+                388.97682189941406,
+                419.9087219238281,
+                449.15675354003906
+            ],
+            "ClipBounds": [
+                319.32000732421875,
+                388.97682189941406,
+                419.9087219238281,
+                449.15675354003906
+            ],
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/Table/TR[3]/TD[2]",
+            "attributes": {
+                "BBox": [
+                    305.2679999999964,
+                    387.2569999999978,
+                    433.4219999999914,
+                    451.69499999999243
+                ],
+                "BlockAlign": "Before",
+                "BorderColor": [
+                    [
+                        0.1333309999999983,
+                        0.12156699999999887,
+                        0.12156699999999887
+                    ],
+                    [
+                        0.1333309999999983,
+                        0.12156699999999887,
+                        0.12156699999999887
+                    ],
+                    null,
+                    null
+                ],
+                "BorderStyle": [
+                    "Solid",
+                    "Solid",
+                    "None",
+                    "None"
+                ],
+                "BorderThickness": [
+                    0.125,
+                    0.125,
+                    0,
+                    0
+                ],
+                "ColIndex": 1,
+                "Height": 64.375,
+                "InlineAlign": "Start",
+                "RowIndex": 2,
+                "Width": 128.125
+            }
+        },
+        {
+            "Bounds": [
+                319.32000732421875,
+                388.97682189941406,
+                419.9087219238281,
+                449.15675354003906
+            ],
+            "ClipBounds": [
+                319.32000732421875,
+                388.97682189941406,
+                419.9087219238281,
+                449.15675354003906
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UZWRFE+AdobeClean-SemiCn",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": true,
+            "Lang": "en",
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/Table/TR[3]/TD[2]/P",
+            "Text": "People related data (salary, benefits), data with need-to-know restrictions like source code, Customer Files, product roadmaps, Adobe financial information. ",
+            "TextSize": 7.9799957275390625,
+            "attributes": {
+                "LineHeight": 10.125
+            }
+        },
+        {
+            "Bounds": [
+                442.91835021972656,
+                419.5168151855469,
+                557.29345703125,
+                449.15675354003906
+            ],
+            "ClipBounds": [
+                442.91835021972656,
+                419.5168151855469,
+                557.29345703125,
+                449.15675354003906
+            ],
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/Table/TR[3]/TD[3]",
+            "attributes": {
+                "BBox": [
+                    433.4219999999914,
+                    387.2569999999978,
+                    561.8169999999809,
+                    451.69499999999243
+                ],
+                "BlockAlign": "Before",
+                "BorderColor": [
+                    [
+                        0.1333309999999983,
+                        0.12156699999999887,
+                        0.12156699999999887
+                    ],
+                    [
+                        0.1333309999999983,
+                        0.12156699999999887,
+                        0.12156699999999887
+                    ],
+                    null,
+                    null
+                ],
+                "BorderStyle": [
+                    "Solid",
+                    "Solid",
+                    "None",
+                    "None"
+                ],
+                "BorderThickness": [
+                    0.125,
+                    0.125,
+                    0,
+                    0
+                ],
+                "ColIndex": 2,
+                "Height": 64.375,
+                "InlineAlign": "Start",
+                "RowIndex": 2,
+                "Width": 128.375
+            }
+        },
+        {
+            "Bounds": [
+                442.91835021972656,
+                419.5168151855469,
+                557.29345703125,
+                449.15675354003906
+            ],
+            "ClipBounds": [
+                442.91835021972656,
+                419.5168151855469,
+                557.29345703125,
+                449.15675354003906
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UZWRFE+AdobeClean-SemiCn",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": true,
+            "Lang": "en",
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/Table/TR[3]/TD[3]/P",
+            "Text": "Likely to cause significant harm to Adobe, its employees, customers, stockholders, or business partners ",
+            "TextSize": 7.9799957275390625,
+            "attributes": {
+                "LineHeight": 10,
+                "TextAlign": "Justify"
+            }
+        },
+        {
+            "Bounds": [
+                184.8000030517578,
+                334.9168243408203,
+                283.92779541015625,
+                385.6442413330078
+            ],
+            "ClipBounds": [
+                184.8000030517578,
+                334.9168243408203,
+                283.92779541015625,
+                385.6442413330078
+            ],
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/Table/TR[4]/TD",
+            "attributes": {
+                "BBox": [
+                    184.07299999999668,
+                    335.4189999999944,
+                    305.2679999999964,
+                    387.61699999999837
+                ],
+                "BlockAlign": "After",
+                "BorderColor": [
+                    [
+                        0.1333309999999983,
+                        0.12156699999999887,
+                        0.12156699999999887
+                    ],
+                    [
+                        0.1333309999999983,
+                        0.12156699999999887,
+                        0.12156699999999887
+                    ],
+                    null,
+                    null
+                ],
+                "BorderStyle": [
+                    "Solid",
+                    "Solid",
+                    "None",
+                    "None"
+                ],
+                "BorderThickness": [
+                    0.125,
+                    0.125,
+                    0,
+                    0
+                ],
+                "ColIndex": 0,
+                "Height": 52.25,
+                "InlineAlign": "Start",
+                "RowIndex": 3,
+                "Width": 121.25
+            }
+        },
+        {
+            "Bounds": [
+                184.8000030517578,
+                375.81288146972656,
+                283.92779541015625,
+                385.6442413330078
+            ],
+            "ClipBounds": [
+                184.8000030517578,
+                375.81288146972656,
+                283.92779541015625,
+                385.6442413330078
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UZWRFE+AdobeClean-SemiCn",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/Table/TR[4]/TD/P",
+            "Text": "Internal data has a Moderate ",
+            "TextSize": 7.9799957275390625,
+            "attributes": {
+                "LineHeight": 9.625
+            }
+        },
+        {
+            "Bounds": [
+                184.8000030517578,
+                365.8168182373047,
+                239.47921752929688,
+                375.41676330566406
+            ],
+            "ClipBounds": [
+                184.8000030517578,
+                365.8168182373047,
+                239.47921752929688,
+                375.19000244140625
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UZWRFE+AdobeClean-SemiCn",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": true,
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/Table/TR[4]/TD/P[2]/Sub",
+            "Text": "Business Impact ",
+            "TextSize": 7.9799957275390625,
+            "attributes": {
+                "Placement": "Block"
+            }
+        },
+        {
+            "Bounds": [
+                184.8000030517578,
+                334.9168243408203,
+                272.19215393066406,
+                363.87635803222656
+            ],
+            "ClipBounds": [
+                184.8000030517578,
+                334.9168243408203,
+                272.19215393066406,
+                363.87635803222656
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UZWRFE+AdobeClean-SemiCn",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": true,
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/Table/TR[4]/TD/P[2]/Sub[2]",
+            "Text": "Note: The default type for unclassified data is Internal ",
+            "TextSize": 7.9799957275390625,
+            "attributes": {
+                "Placement": "Block"
+            }
+        },
+        {
+            "Bounds": [
+                319.32000732421875,
+                345.7768249511719,
+                422.1454315185547,
+                385.436767578125
+            ],
+            "ClipBounds": [
+                319.32000732421875,
+                345.7768249511719,
+                422.1454315185547,
+                385.436767578125
+            ],
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/Table/TR[4]/TD[2]",
+            "attributes": {
+                "BBox": [
+                    305.2679999999964,
+                    335.4189999999944,
+                    433.4219999999914,
+                    387.61699999999837
+                ],
+                "BlockAlign": "Before",
+                "BorderColor": [
+                    [
+                        0.1333309999999983,
+                        0.12156699999999887,
+                        0.12156699999999887
+                    ],
+                    [
+                        0.1333309999999983,
+                        0.12156699999999887,
+                        0.12156699999999887
+                    ],
+                    null,
+                    null
+                ],
+                "BorderStyle": [
+                    "Solid",
+                    "Solid",
+                    "None",
+                    "None"
+                ],
+                "BorderThickness": [
+                    0.125,
+                    0.125,
+                    0,
+                    0
+                ],
+                "ColIndex": 1,
+                "Height": 52.25,
+                "InlineAlign": "Start",
+                "RowIndex": 3,
+                "Width": 128.125
+            }
+        },
+        {
+            "Bounds": [
+                319.32000732421875,
+                345.7768249511719,
+                422.1454315185547,
+                385.436767578125
+            ],
+            "ClipBounds": [
+                319.32000732421875,
+                345.7768249511719,
+                422.1454315185547,
+                385.436767578125
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UZWRFE+AdobeClean-SemiCn",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/Table/TR[4]/TD[2]/P",
+            "Text": "Operational planning, collaboration and internal communications, IT Knowledge Center articles. ",
+            "TextSize": 7.9799957275390625,
+            "attributes": {
+                "LineHeight": 10
+            }
+        },
+        {
+            "Bounds": [
+                442.91835021972656,
+                365.8168182373047,
+                554.7077331542969,
+                385.436767578125
+            ],
+            "ClipBounds": [
+                442.91835021972656,
+                365.8168182373047,
+                554.7077331542969,
+                385.436767578125
+            ],
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/Table/TR[4]/TD[3]",
+            "attributes": {
+                "BBox": [
+                    433.4219999999914,
+                    335.4189999999944,
+                    561.8169999999809,
+                    387.61699999999837
+                ],
+                "BlockAlign": "Before",
+                "BorderColor": [
+                    [
+                        0.1333309999999983,
+                        0.12156699999999887,
+                        0.12156699999999887
+                    ],
+                    [
+                        0.1333309999999983,
+                        0.12156699999999887,
+                        0.12156699999999887
+                    ],
+                    null,
+                    null
+                ],
+                "BorderStyle": [
+                    "Solid",
+                    "Solid",
+                    "None",
+                    "None"
+                ],
+                "BorderThickness": [
+                    0.125,
+                    0.125,
+                    0,
+                    0
+                ],
+                "ColIndex": 2,
+                "Height": 52.25,
+                "InlineAlign": "Start",
+                "RowIndex": 3,
+                "Width": 128.375
+            }
+        },
+        {
+            "Bounds": [
+                442.91835021972656,
+                365.8168182373047,
+                554.7077331542969,
+                385.436767578125
+            ],
+            "ClipBounds": [
+                442.91835021972656,
+                365.8168182373047,
+                554.7077331542969,
+                385.436767578125
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UZWRFE+AdobeClean-SemiCn",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": true,
+            "Lang": "en",
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/Table/TR[4]/TD[3]/P",
+            "Text": "May cause minor embarrassment or operational inconvenience ",
+            "TextSize": 7.9799957275390625,
+            "attributes": {
+                "LineHeight": 10
+            }
+        },
+        {
+            "Bounds": [
+                184.8000030517578,
+                323.6728820800781,
+                223.60426330566406,
+                333.5042419433594
+            ],
+            "ClipBounds": [
+                184.8000030517578,
+                323.6728820800781,
+                223.60426330566406,
+                333.5042419433594
+            ],
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/Table/TR[5]/TD",
+            "attributes": {
+                "BBox": [
+                    184.07299999999668,
+                    310.5799999999872,
+                    305.2679999999964,
+                    335.778999999995
+                ],
+                "BlockAlign": "Before",
+                "BorderColor": [
+                    [
+                        0.1333309999999983,
+                        0.12156699999999887,
+                        0.12156699999999887
+                    ],
+                    [
+                        0.1333309999999983,
+                        0.12156699999999887,
+                        0.12156699999999887
+                    ],
+                    null,
+                    null
+                ],
+                "BorderStyle": [
+                    "Solid",
+                    "Solid",
+                    "None",
+                    "None"
+                ],
+                "BorderThickness": [
+                    0.125,
+                    0.375,
+                    0,
+                    0
+                ],
+                "ColIndex": 0,
+                "Height": 25.25,
+                "InlineAlign": "Start",
+                "RowIndex": 4,
+                "Width": 121.25
+            }
+        },
+        {
+            "Bounds": [
+                184.8000030517578,
+                323.6728820800781,
+                223.60426330566406,
+                333.5042419433594
+            ],
+            "ClipBounds": [
+                184.8000030517578,
+                323.6728820800781,
+                223.60426330566406,
+                333.5042419433594
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UZWRFE+AdobeClean-SemiCn",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/Table/TR[5]/TD/P",
+            "Text": "Public data ",
+            "TextSize": 7.9799957275390625,
+            "attributes": {
+                "LineHeight": 9.625
+            }
+        },
+        {
+            "Bounds": [
+                319.32000732421875,
+                313.13682556152344,
+                406.6510925292969,
+                333.2967529296875
+            ],
+            "ClipBounds": [
+                319.32000732421875,
+                313.13682556152344,
+                406.6510925292969,
+                333.2967529296875
+            ],
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/Table/TR[5]/TD[2]",
+            "attributes": {
+                "BBox": [
+                    305.2679999999964,
+                    310.5799999999872,
+                    433.4219999999914,
+                    335.778999999995
+                ],
+                "BlockAlign": "Middle",
+                "BorderColor": [
+                    [
+                        0.1333309999999983,
+                        0.12156699999999887,
+                        0.12156699999999887
+                    ],
+                    [
+                        0.1333309999999983,
+                        0.12156699999999887,
+                        0.12156699999999887
+                    ],
+                    null,
+                    null
+                ],
+                "BorderStyle": [
+                    "Solid",
+                    "Solid",
+                    "None",
+                    "None"
+                ],
+                "BorderThickness": [
+                    0.125,
+                    0.375,
+                    0,
+                    0
+                ],
+                "ColIndex": 1,
+                "Height": 25.25,
+                "InlineAlign": "Start",
+                "RowIndex": 4,
+                "Width": 128.125
+            }
+        },
+        {
+            "Bounds": [
+                319.32000732421875,
+                313.13682556152344,
+                406.6510925292969,
+                333.2967529296875
+            ],
+            "ClipBounds": [
+                319.32000732421875,
+                313.13682556152344,
+                406.6510925292969,
+                333.2967529296875
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UZWRFE+AdobeClean-SemiCn",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": true,
+            "Lang": "en",
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/Table/TR[5]/TD[2]/P",
+            "Text": "Information that is openly available ",
+            "TextSize": 7.9799957275390625,
+            "attributes": {
+                "LineHeight": 10.5
+            }
+        },
+        {
+            "Bounds": [
+                442.91835021972656,
+                323.6968231201172,
+                478.94439697265625,
+                333.2967529296875
+            ],
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/Table/TR[5]/TD[3]",
+            "attributes": {
+                "BBox": [
+                    433.4219999999914,
+                    310.5799999999872,
+                    561.8169999999809,
+                    335.778999999995
+                ],
+                "BlockAlign": "Before",
+                "BorderColor": [
+                    [
+                        0.1333309999999983,
+                        0.12156699999999887,
+                        0.12156699999999887
+                    ],
+                    [
+                        0.1333309999999983,
+                        0.12156699999999887,
+                        0.12156699999999887
+                    ],
+                    null,
+                    null
+                ],
+                "BorderStyle": [
+                    "Solid",
+                    "Solid",
+                    "None",
+                    "None"
+                ],
+                "BorderThickness": [
+                    0.125,
+                    0.375,
+                    0,
+                    0
+                ],
+                "ColIndex": 2,
+                "Height": 25.25,
+                "InlineAlign": "Start",
+                "RowIndex": 4,
+                "Width": 128.375
+            }
+        },
+        {
+            "Bounds": [
+                442.91835021972656,
+                323.6968231201172,
+                478.94439697265625,
+                333.2967529296875
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UZWRFE+AdobeClean-SemiCn",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect/Table/TR[5]/TD[3]/P",
+            "Text": "No impact ",
+            "TextSize": 7.9799957275390625,
+            "attributes": {
+                "LineHeight": 9.625
+            }
+        },
+        {
+            "Bounds": [
+                184.5,
+                275.54087829589844,
+                309.8320770263672,
+                289.0682373046875
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "ZWLAXU+AdobeClean-Bold",
+                "subset": true,
+                "weight": 700
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect[2]/H2",
+            "Text": "Adobe Confidential Data ",
+            "TextSize": 10.979995727539062,
+            "attributes": {
+                "SpaceAfter": 2.875
+            }
+        },
+        {
+            "Bounds": [
+                184.5,
+                211.74600219726562,
+                554.3327789306641,
+                271.90199279785156
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect[2]/P",
+            "Text": "Only limited segments of the Adobe workforce need access to data classified as Adobe Confidential in order to perform their jobs. Unauthorized disclosure of Adobe Confidential data would likely cause significant harm (such as financial, contractual, or legal or reputational harm orservice disruptions) to Adobe, its employees, customers, stockholders, and business partners. ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                184.49057006835938,
+                199.3350067138672,
+                320.2603759765625,
+                210.40499877929688
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Lang": "en",
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect[2]/P[2]",
+            "Text": "Adobe Confidential data includes: ",
+            "TextSize": 9.0,
+            "attributes": {
+                "SpaceAfter": 4.5
+            }
+        },
+        {
+            "Bounds": [
+                184.44000244140625,
+                184.09500122070312,
+                189.47998046875,
+                195.1649932861328
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect[2]/L/LI/Lbl",
+            "Text": "\u2022 ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                191.52000427246094,
+                184.0919952392578,
+                444.8892822265625,
+                195.16200256347656
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect[2]/L/LI/LBody",
+            "Text": "Data that Adobe is contractually required to treat as confidential ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                184.43699645996094,
+                165.97500610351562,
+                189.4769744873047,
+                177.0449981689453
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect[2]/L/LI[2]/Lbl",
+            "Text": "\u2022 ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                191.52000427246094,
+                104.64599609375,
+                551.7001647949219,
+                177.04200744628906
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect[2]/L/LI[2]/LBody",
+            "Text": "Personal information (PI) (unless the personal information meets the definition of Adobe Restricted data) about an individual (including free users, paid users, enterprise users, suppliers, or employees). This can include directly identifiable personal information, such as name, email address, phone number, home address, or precise geolocation information. Personal informationcan also include indirectly identifiable personal information, such as a user GUID, IP address, cookie ID, or device identifier. ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                184.4429931640625,
+                86.71499633789062,
+                189.48297119140625,
+                97.78500366210938
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect[2]/L/LI[3]/Lbl",
+            "Text": "\u2022 ",
+            "TextSize": 9.0
+        },
+        {
+            "Bounds": [
+                191.52000427246094,
+                74.40899658203125,
+                547.6959838867188,
+                97.78199768066406
+            ],
+            "Font": {
+                "alt_family_name": "Clean",
+                "embedded": true,
+                "encoding": "WinAnsiEncoding",
+                "family_name": "Adobe Clean",
+                "font_type": "Type1",
+                "italic": false,
+                "monospaced": false,
+                "name": "UVJLFE+AdobeClean-Regular",
+                "subset": true,
+                "weight": 400
+            },
+            "HasClip": false,
+            "Page": 2,
+            "Path": "//Document/Sect[4]/Sect[2]/L/LI[3]/LBody",
+            "Text": "Content or data that customers, partners, or users provide to Adobe (unless the content or datameets the definition of Restricted data below) ",
+            "TextSize": 9.0
+        }
+    ],
+    "pages": [
+        {
+            "boxes": {
+                "CropBox": [
+                    0.0,
+                    0.0,
+                    630.0,
+                    810.0
+                ],
+                "MediaBox": [
+                    0.0,
+                    0.0,
+                    630.0,
+                    810.0
+                ]
+            },
+            "height": 810.0,
+            "page_number": 0,
+            "rotation": 0,
+            "width": 630.0
+        },
+        {
+            "boxes": {
+                "CropBox": [
+                    0.0,
+                    0.0,
+                    630.0,
+                    810.0
+                ],
+                "MediaBox": [
+                    0.0,
+                    0.0,
+                    630.0,
+                    810.0
+                ]
+            },
+            "height": 810.0,
+            "page_number": 1,
+            "rotation": 0,
+            "width": 630.0
+        },
+        {
+            "boxes": {
+                "CropBox": [
+                    0.0,
+                    0.0,
+                    630.0,
+                    810.0
+                ],
+                "MediaBox": [
+                    0.0,
+                    0.0,
+                    630.0,
+                    810.0
+                ]
+            },
+            "height": 810.0,
+            "page_number": 2,
+            "rotation": 0,
+            "width": 630.0
+        }
+    ]
+}
